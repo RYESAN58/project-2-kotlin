@@ -1,7 +1,6 @@
 plugins {
     alias(libs.plugins.androidApplication)
-    alias(libs.plugins.jetbrainsKotlin   ndroid)
-
+    alias(libs.plugins.jetbrainsKotlinAndroid)
     id("com.google.dagger.hilt.android")
     kotlin("kapt")
     kotlin("plugin.serialization")

@@ -1,4 +1,4 @@
-package com.example.knownyc.ui.theme
+package com.example.knownyc.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
